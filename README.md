@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/lanzkrish/lanzkrish.github.io/files/11095182/one.page.pdf">Resume</a> •
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://lanzkrish.github.io/">Website</a> •
   <a href="https://twitter.com/lanzkrish">Twitter</a> •
   <a href="https://www.linkedin.com/in/dhaswd/">Linkedin</a> •
 	<a href="https://github.com/lanzkrish" target="_blank">GitHub</a> •
