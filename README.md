@@ -3,6 +3,7 @@
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzkrish&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+<img src="https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW" width = 100px>
 <!-- Heading -->
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Dhananjay Sahoo</h2>
  <!--Links-->
