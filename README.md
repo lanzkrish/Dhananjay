@@ -1,9 +1,8 @@
 # Readme
   
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzkrish&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzkrish&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />    <img src="https://user-images.githubusercontent.com/73235813/230348760-f278580a-54c4-4958-ad06-84393d7107a1.png" width = 30px>
 </p>
-<img src="https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW" width = 100px>
 <!-- Heading -->
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Dhananjay Sahoo</h2>
  <!--Links-->
