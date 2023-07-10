@@ -23,7 +23,7 @@
 <div>
 	<p>A talented and hardworking freshman looking for a new challenging position as a software developer in a reputable organisation, where my skills in Python, .NET, HTML, CSS, and project management can be utilised to enhance the company's productivity and growth.</p>
   <p>Email: kanha94377@gmail.com</p>
-  <p>Phone: +91 8763856444</p>
+  
   </div>
   
   
