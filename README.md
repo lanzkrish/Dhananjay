@@ -8,7 +8,7 @@
  <!--Links-->
 
 <p align="center">
-  <a href="Dhananjay Sahoo Resume (2).pdf">Resume</a> •
+  <a href="https://github.com/lanzkrish/lanzkrish/files/15048232/Dhananjay.Sahoo.Resume.2.pdf">Resume</a> •
   <a href="https://lanzkrish.github.io/">Website</a> •
   <a href="https://twitter.com/lanzkrish">Twitter</a> •
   <a href="https://www.linkedin.com/in/dhaswd/">Linkedin</a> •
