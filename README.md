@@ -8,7 +8,7 @@
  <!--Links-->
 
 <p align="center">
-  <a href="https://github.com/lanzkrish/lanzkrish.github.io/files/11095182/one.page.pdf">Resume</a> •
+  <a href="Dhananjay Sahoo Resume (2).pdf">Resume</a> •
   <a href="https://lanzkrish.github.io/">Website</a> •
   <a href="https://twitter.com/lanzkrish">Twitter</a> •
   <a href="https://www.linkedin.com/in/dhaswd/">Linkedin</a> •
@@ -17,11 +17,11 @@
 	<a href="https://leetcode.com/LanzKrish" target="_blank">leetcode </a> •
 	<a href="https://lanzkrish.hashnode.dev/" target="_blank">Hashnode</a> •
   <a href="https://www.cloudskillsboost.google/public_profiles/4900bbbf-f3dc-412e-8ae5-bff0b045d19d" target="_blank">Google Cloud skills</a> •
-	<a href="https://youtuybe.com/lanzkrish" target="_blank" >Youtube</a> 
+	<a href="https://youtube.com/lanzkrish" target="_blank" >Youtube</a> 
 </p>
 <h2 align='center'>About</h2>
 <div>
-	<p>A talented and hardworking freshman looking for a new challenging position as a software developer in a reputable organisation, where my skills in Python, .NET, HTML, CSS, and project management can be utilised to enhance the company's productivity and growth.</p>
+	<p>A talented and hardworking freshman looking for a new challenging position as a software developer in a reputable organization, where my skills in Python, .NET, HTML, CSS, and project management can be utilized to enhance the company's productivity and growth.</p>
   <p>Email: kanha94377@gmail.com</p>
   
   </div>
